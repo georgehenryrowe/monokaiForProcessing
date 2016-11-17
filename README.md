@@ -5,7 +5,7 @@ Monokai theme for Processing for Mac and Windows
 
 ###Mac
 
-1. Go to Docouments > Processing and renamne preferences.txt to preferencesOld.txt (this is just so you don't lose them if something goes wrong)
+1. Go to Documents > Processing and rename preferences.txt to preferencesOld.txt (this is just so you don't lose them if something goes wrong)
 2. Copy preferences.txt from your repo into that folder
 3. Go to Applications, find Processing.app, right click and choose 'Show Package Contents'
 4. Go to Contents > Java > lib and rename theme.txt to themeOld.txt
