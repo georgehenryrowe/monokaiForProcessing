@@ -12,6 +12,6 @@ Monokai theme for Processing for Mac and Windows
 5. Copy in theme.txt from this repo
 6. Open Processing et voila! (If Processing was already running you will need to close it and open it again to see changes)
 
-![alt text](https://github.com/georgehenryrowe/monokaiForProcessing/monokai_screenshot.png "Monokai for Processing Screenshot")
+![alt text](https://github.com/georgehenryrowe/monokaiForProcessing/blob/master/monokai_screenshot.png "Monokai for Processing Screenshot")
 
 Pull requests greatly received.
