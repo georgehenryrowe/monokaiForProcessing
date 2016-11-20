@@ -1,5 +1,5 @@
 # monokaiForProcessing
-Monokai theme for Processing for Mac and Windows
+Monokai Dark theme for Processing for Mac and Windows. Easier on the eyes, with the Monokai/Sublime classic colours.
 
 ##Installation
 
